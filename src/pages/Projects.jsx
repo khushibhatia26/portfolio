@@ -13,30 +13,16 @@ const projects = [
     desc: "Designed a gamified app in Figma to help immigrants find services and earn rewards.",
   },
   {
-    title: "Time Series & Disease Prediction Models – Blackstraw.AI",
+    title: "Time Series & Disease Prediction Models at Blackstraw.AI",
     slug: "blackstraw-ai-data-models",
     desc: "Forecasting stock growth and predicting diseases using time series, ANN/RNN, and transformers.",
   },
   {
-    title: "Pix2Pix Image Mapping – Computer Vision Project",
+    title: "Pix2Pix Image Mapping – Computer Vision Project at Tech Mahindra",
     slug: "pix2pix-image-mapping",
     desc: "Used deep learning with CNNs to generate Google Map views from real-world images.",
   },
-  {
-    title: "ML Sentiment Analyzer",
-    slug: "ml-sentiment-analyzer",
-    desc: "A machine learning project analyzing text sentiment.",
-  },
-  {
-    title: "Mobile Fitness Tracker",
-    slug: "mobile-fitness-tracker",
-    desc: "A mobile app that helps you track workouts and health.",
-  },
-  {
-    title: "Portfolio Website",
-    slug: "portfolio-website",
-    desc: "My own portfolio built with React and Tailwind CSS.",
-  },
+  
 ];
 
 export default function Projects() {

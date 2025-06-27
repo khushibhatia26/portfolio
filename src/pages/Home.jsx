@@ -40,13 +40,14 @@ export default function Home() {
               Hi, My name is Khushi Bhatia
             </h1>
             <p className="text-base text-gray-200 dark:text-gray-700 leading-relaxed">
-              I’m a curious and creative tech lover who recently graduated{" "}
-              <strong>summa cum laude</strong> in Computer Science from{" "}
-              <strong>Arizona State University</strong>. I’ve always been excited about
-              learning new things and building stuff that actually works. Whether it's a cool
-              app or a fun side project, I enjoy the process of turning ideas into real things.
-              I love working on projects, exploring new tech, and finding smart ways to solve
-              problems. For me, tech isn’t just what I do — it’s what I’m passionate about.
+             I was bored, so I made this portfolio. The picture above is from my graduation day at 
+             Arizona State University, where I graduated summa cum laude in Computer Science. 
+             It feels a bit strange to talk about myself like this haha, but I’m a curious and creative tech lover who 
+             enjoys learning new things and building projects that actually work. I love exploring new 
+             technology and finding smart ways to solve problems but for me, tech is more than just work, 
+             it’s a passion.
+
+
             </p>
           </section>
 
@@ -55,17 +56,20 @@ export default function Home() {
               My Interests
             </h2>
             <p className="text-base text-gray-200 dark:text-gray-700 leading-relaxed">
-              I'm really passionate about working on <strong>AI and Machine Learning</strong>{" "}
+              I'm really passionate about working on AI and Machine Learning{" "}
               projects, especially as part of a team where we can bounce around ideas and build
               something impactful together. Lately, I’ve been diving into the{" "}
-              <strong>fintech and stock market</strong> world, exploring how tech can transform
-              finance — and I’ve even worked on projects in that space. I love taking what I
+              fintech and stock market world, exploring how tech can transform
+              finance and I’ve even worked on projects in that space. I love taking what I
               learn and applying it to real-world problems. Outside of tech, I enjoy{" "}
-              <strong>meeting new people, networking</strong>, and having meaningful conversations.
-              I’ve also been playing <strong>tennis since I was five</strong>, which has taught me
+              meeting new people, networking, and having meaningful conversations.
+              I’ve also been playing tennis since I was five, which has taught me
               discipline, focus, and fun. I'm constantly inspired by{" "}
-              <strong>strong women in tech</strong> and hope to do the same — keep learning and
-              uplift others along the way.
+              strong women in tech and hope to do the same that is keep learning and
+              uplift others along the way. Feel free to check out some of my projects in the Projects section — they’re pretty cool, I promise!!!!
+
+
+
             </p>
           </section>
         </>

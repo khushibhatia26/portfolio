@@ -4,7 +4,7 @@ const projectDetails = {
   "cool-react-app": {
     title: "Deutsche Bank ESG Insights & AI Chatbot Project",
     content:
-      "Collaborated in a cutting-edge project leveraging Google Cloud Storage and Bitbucket to unify team efforts in building a robust web scraping pipeline for ESG and financial data across leading U.S. banks. Spearheaded the creation of a Retrieval-Augmented Generation (RAG) model to process vast amounts of data with token limits, mastering vector pointers for efficient information retrieval. Performed advanced sentiment analysis to generate insightful visual comparisons on ESG performance, integrating findings from deep research—including stock market trends. Developed an intelligent chatbot powered by the RAG model that answers complex finance queries and fun non-finance questions (yes, even grandma’s secret cookie recipe!). Deployed the entire solution on GCP, demonstrating seamless teamwork and cloud-based innovation.",
+      "Collaborated in a cutting-edge project leveraging Google Cloud Storage and Bitbucket to unify team efforts in building a robust web scraping pipeline for ESG and financial data across leading U.S. banks. I, with the team worked on the creation of a Retrieval-Augmented Generation (RAG) model to process vast amounts of data with token limits, mastering vector pointers for efficient information retrieval. Performed advanced sentiment analysis to generate insightful visual comparisons on ESG performance, integrating findings from deep research—including stock market trends. Developed an intelligent chatbot powered by the RAG model that answers complex finance queries and fun non-finance questions (yes, even grandma’s secret cookie recipe!). Deployed the entire solution on GCP, demonstrating seamless teamwork and cloud-based innovation.",
     skills: [
       "UI/UX Development",
       "Figma",
@@ -74,24 +74,7 @@ const projectDetails = {
       "Discriminators & Generators",
     ],
   },
-  "ml-sentiment-analyzer": {
-    title: "ML Sentiment Analyzer",
-    content:
-      "This project uses NLP and ML to analyze the sentiment of text data using Python and scikit-learn.",
-    skills: ["Python", "scikit-learn", "NLP", "Machine Learning", "Data Visualization"],
-  },
-  "mobile-fitness-tracker": {
-    title: "Mobile Fitness Tracker",
-    content:
-      "A full-featured mobile app built with React Native to track workouts, steps, and goals.",
-    skills: ["React Native", "Mobile Development", "Health APIs", "UI Design"],
-  },
-  "portfolio-website": {
-    title: "Portfolio Website",
-    content:
-      "You're on it! This is my personal website built with React, Framer Motion, and Tailwind CSS.",
-    skills: ["React", "Framer Motion", "Tailwind CSS", "JavaScript", "Web Development"],
-  },
+  
 };
 
 export default function ProjectDetail() {
