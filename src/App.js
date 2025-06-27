@@ -1,7 +1,8 @@
 import { useState } from "react";
 import ProjectDetail from "./pages/ProjectDetail";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
+
   Routes,
   Route,
   Link,
